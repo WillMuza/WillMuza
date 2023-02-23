@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WillMuza
-- 👀 I’m interested in Data Analyst projects
-- 🌱 I’m currently learning Data Analyst
+- 👀 I’m interested in Data Analytics projects
+- 🌱 A Data Analyst in training.
 - 💞️ I’m looking to collaborate on portfolio 
 - 📫 How to reach me on willbaruck@gmail.com
 
